@@ -1,2 +1,1 @@
-# PlasmaSplash
-Elgen Splash V1
+This is version 1 of the Elgen Splash screen for KDE Plasma
